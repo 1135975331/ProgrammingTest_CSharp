@@ -1,0 +1,14 @@
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\bin\Debug\net7.0\ProgrammingTest_CSharp.exe
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\bin\Debug\net7.0\ProgrammingTest_CSharp.deps.json
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\bin\Debug\net7.0\ProgrammingTest_CSharp.runtimeconfig.json
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\bin\Debug\net7.0\ProgrammingTest_CSharp.dll
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\bin\Debug\net7.0\ProgrammingTest_CSharp.pdb
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.AssemblyInfoInputs.cache
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.AssemblyInfo.cs
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.csproj.CoreCompileInputs.cache
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.dll
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\refint\ProgrammingTest_CSharp.dll
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.pdb
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ProgrammingTest_CSharp.genruntimeconfig.cache
+D:\Developing\C#Projects\ProgrammingTest_CSharp\ProgrammingTest_CSharp\obj\Debug\net7.0\ref\ProgrammingTest_CSharp.dll
