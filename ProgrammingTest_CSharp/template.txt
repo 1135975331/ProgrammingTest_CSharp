@@ -1,0 +1,11 @@
+
+namespace ProgrammingTest_CSharp;
+
+/*https://www.acmicpc.net/problem/ProblemNum*/
+public class BaekjoonProblemNum
+{
+    public static void Main()  
+    {
+        
+    }
+}
